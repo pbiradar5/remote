@@ -1,7 +1,13 @@
 def add(x,y):
+<<<<<<< HEAD
     
-    y+x
+    x+y
+
 def subtract(x,y):
+=======
+    x+y
+    def subtract(x,y):
+>>>>>>> 5e51f0605d05e4c70caad6e1e4da0358c838869b
     pass
 def multiply(x,y):
     pass
